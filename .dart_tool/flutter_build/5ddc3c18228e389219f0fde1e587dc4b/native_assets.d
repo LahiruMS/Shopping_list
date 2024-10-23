@@ -1,0 +1,1 @@
+ /Users/lahirumadushan/Desktop/Mobile_app_devolopment/Flutter/new_projects/shopping_list/.dart_tool/flutter_build/5ddc3c18228e389219f0fde1e587dc4b/native_assets.yaml: 
